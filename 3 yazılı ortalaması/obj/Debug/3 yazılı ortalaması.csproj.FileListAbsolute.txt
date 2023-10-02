@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\bin\Debug\3 yazılı ortalaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\bin\Debug\3 yazılı ortalaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\bin\Debug\3 yazılı ortalaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\_3_yazılı_ortalaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\_3_yazılı_ortalaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Beyzanur Taş\3 yazılı ortalaması\3 yazılı ortalaması\obj\Debug\3 yazılı ortalaması.pdb
